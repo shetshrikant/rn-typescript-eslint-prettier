@@ -1,4 +1,4 @@
-# TypeScript Example
+# React Native with TypeScript, Prettier, ESLint Example
 
 <p>
   <!-- iOS -->
