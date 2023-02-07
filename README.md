@@ -1,4 +1,6 @@
-# React Native with TypeScript, Prettier, ESLint Example
+# [React Native with TypeScript, Prettier, ESLint Example](https://medium.com/@shrikantshet/react-native-with-expo-cli-typescript-prettier-and-eslint-9dd2a6ec61f0)
+
+[Article Available Here](https://medium.com/@shrikantshet/react-native-with-expo-cli-typescript-prettier-and-eslint-9dd2a6ec61f0)
 
 <p>
   <!-- iOS -->
@@ -34,3 +36,4 @@ TypeScript is a superset of JavaScript which gives you static types and powerful
 ## 📝 Notes
 
 - [Expo TypeScript guide](https://docs.expo.dev/versions/latest/guides/typescript/)
+- [Configure ESLint and Prettier with TypeScript React Native Project](https://medium.com/@shrikantshet/react-native-with-expo-cli-typescript-prettier-and-eslint-9dd2a6ec61f0)
